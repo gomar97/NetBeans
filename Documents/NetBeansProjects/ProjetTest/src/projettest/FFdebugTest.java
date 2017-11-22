@@ -24,7 +24,7 @@ public class FFdebugTest {
      */
     public FFdebugTest(int[] myArray) {
         this.myArray = myArray;
-    }
+    } 
     
     /**
      * 
